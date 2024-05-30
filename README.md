@@ -23,7 +23,7 @@ An introduction to the fundamentals of natural language processing. We explore v
 
 8 - Transformer
 
-## Final project for students
+## Final project
 
 The final project involves applying the various algorithms covered in the course to multiple datasets and identifying limitations and possible improvements.
 
