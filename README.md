@@ -6,13 +6,21 @@ An introduction to the fundamentals of natural language processing. We explore v
 ## Syllabus: 
 
 0 - Project description
+
 1 - Tokenization: regular expressions and the Byte-Pair Encoding algorithm
+
 2 - N-grams
+
 3 - Text classification with naive bayes
+
 4 - Text classification with logistic regression
+
 5 - Vector semantics: tf-idf and word2vec
+
 6 - Feedforward neural networks
+
 7 - Recurrent neural networks and attention mechanisms
+
 8 - Transformer
 
 ## Final project for students
