@@ -1,5 +1,5 @@
 # Natural Language Processing
-Slides and exercices for my course "Natural Language Processing" (École Pour l'Informatique et les Techniques Avancées, 2024)
+Slides and exercices for my course "Natural Language Processing" (École Pour l'Informatique et les Techniques Avancées, 2024). Semester-long course to 70 final-year engineering students (30h). 
 
 An introduction to the fundamentals of natural language processing. We explore various algorithms for text classification and generation. The goal is to start with simple language models like n-grams and progress towards understanding modern architectures like transformers. During exercises, we implement different algorithms from scratch.
 
