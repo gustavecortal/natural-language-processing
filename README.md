@@ -1,21 +1,21 @@
 # Natural Language Processing
-Slides and exercices for my course "Natural Language Processing" (École Pour l'Informatique et les Techniques Avancées, 2024). Semester-long course to 70 final-year engineering students (30h). 
+Slides and exercices for my course "Natural Language Processing" (École Pour l'Informatique et les Techniques Avancées, 2024 and 2025). Semester-long courses to 150 final-year engineering students (60h). 
 
 An introduction to the fundamentals of natural language processing. We explore various algorithms for text classification and generation. The goal is to start with simple language models like n-grams and progress towards understanding modern architectures like transformers. During exercises, we implement different algorithms from scratch.
 
 ## Syllabus: 
 
-0 - Project description
+0 - Course introduction
 
 1 - Tokenization: regular expressions and the Byte-Pair Encoding algorithm
 
 2 - N-grams
 
-3 - Text classification with naive bayes
+3 - Text classification with naive Bayes
 
 4 - Text classification with logistic regression
 
-5 - Vector semantics: tf-idf and word2vec
+5 - Vector semantics: tf-idf and Word2vec
 
 6 - Feedforward neural networks
 
